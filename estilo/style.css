@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 @font-face{
-    font-family: 'values';
-    src: url(../font/html5_values.ttf);
+    font-family: 'square';
+    src: url(../font/FORCED\ SQUARE.ttf);
     font-weight: normal;
     font-style: normal;
 }
@@ -19,7 +19,7 @@
 
     --font-padrao: Arial;
     --font-destaque: 'Bebas Neue', cursive;
-    --font-html: 'values', cursive;
+    --font-square: 'square', cursive;
 }
 
 *{
@@ -95,19 +95,19 @@ img{
 }
 
 section h1{
-    font-family: var(--font-html);
+    font-family: var(--font-square);
     color: var(--cor3);
 }
 
 section h2{
-    font-family: var(--font-html);
+    font-family: var(--font-square);
     color: var(--cor3);
     padding-bottom: 10px;
     padding-top: 10px;
 }
 
 section h3{
-    font-family: var(--font-html);
+    font-family: var(--font-square);
     color: var(--cor3);
     padding-bottom: 10px;
     padding-top: 10px;
@@ -167,7 +167,7 @@ aside{
 }
 
 aside h3{
-    font-family: var(--font-html);
+    font-family: var(--font-square);
     margin-bottom: 10px;
 }
 
