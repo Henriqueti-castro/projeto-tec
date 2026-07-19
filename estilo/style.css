@@ -4,13 +4,12 @@
 
 @font-face{
     font-family: 'square';
-    src: url(../font/FORCED\ SQUARE.ttf) format(true type);
+    src: url(../font/FORCED\ SQUARE.ttf) format(truetype);
     font-weight: normal;
     font-style: normal;
 }
 
 :root{
-    --cor0: #EBE5C5;
     --cor1: #ffffff;
     --cor2: #000000;
     --cor3: #3b3b3b;
@@ -28,7 +27,7 @@
 }
 
 body{
-    background-color: var(--cor0);
+    background-color: var(--cor1);
 }
 
 header{
