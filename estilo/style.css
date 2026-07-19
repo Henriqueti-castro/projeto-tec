@@ -145,11 +145,13 @@ article ul{
 
 li a{
     text-decoration: none;
+    background-color: var(--cor4);
     color: var(--cor2);
 }
 
 li a:hover{
     color: var(--cor3);
+
 }
 
 li a::after{
@@ -181,6 +183,7 @@ aside p{
 aside  p a{
     text-decoration: none;
     color: var(--cor2);
+    background-color: var(--cor4);
 }
 
 aside ul{
