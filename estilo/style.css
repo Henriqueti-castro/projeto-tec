@@ -137,7 +137,7 @@ article p{
     height: 90%;
 }
 
-main ul{
+article ul{
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 30px;
@@ -198,10 +198,10 @@ aside a::after{
 }
 
 footer{
-    background-image: linear-gradient(to bottom, var(--cor5), var(--cor2));
-    color: var(--cor1);
+    background-color: var(--cor3);
+    color: var(--cor5);
     text-shadow: 2px 2px 0px var(--cor3);
     text-align: center;
-    padding: 40px;
+    padding: 10px;
     margin-top: 50px;
 }
