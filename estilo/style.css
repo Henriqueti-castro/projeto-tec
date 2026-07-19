@@ -118,8 +118,6 @@ article p{
     line-height: 30px;
     color: var(--cor2);
     text-align: justify;
-    padding-bottom: 10px;
-    padding-top: 10px;
 }
 
 .video{
@@ -171,6 +169,7 @@ aside h3{
     margin: -20px -20px 0px -20px;
     background-color: var(--cor2);
     color: var(--cor5);
+    padding: 20px;
 }
 
 aside p{
