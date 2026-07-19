@@ -156,18 +156,17 @@ li a::after{
     content: '🔗';
 }
 
-
-
 aside{
     padding: 20px;
     margin-top: 20px;
-    background-color: var(--cor3);
+    background-color: var(--cor4);
     color: var(--cor1);
 }
 
 aside h3{
     font-family: var(--font-square);
     margin-bottom: 10px;
+    background-color: var(--cor3);
 }
 
 aside p{
