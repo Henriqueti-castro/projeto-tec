@@ -148,6 +148,7 @@ li a{
     text-decoration: none;
     background-color: var(--cor4);
     color: var(--cor2);
+    padding: 10px;
 }
 
 li a:hover{
@@ -168,7 +169,7 @@ aside{
 
 aside h3{
     font-family: var(--font-square);
-    margin: -20px -20px 0px -20px;
+    margin: -20px -20px 20px -20px;
     background-color: var(--cor2);
     color: var(--cor5);
     padding: 20px;
@@ -185,6 +186,7 @@ aside  p a{
     text-decoration: none;
     color: var(--cor2);
     background-color: var(--cor4);
+    padding: 20px;
 }
 
 aside ul{
