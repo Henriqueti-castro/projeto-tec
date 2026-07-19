@@ -162,14 +162,15 @@ li a::after{
 aside{
     padding: 20px;
     margin-top: 20px;
-    background-color: var(--cor4);
+    background-color: var(--cor3);
     color: var(--cor1);
 }
 
 aside h3{
     font-family: var(--font-square);
-    margin-bottom: 10px;
-    background-color: var(--cor3);
+    margin: -20px -20px 0px -20px;
+    background-color: var(--cor2);
+    color: var(--cor5);
 }
 
 aside p{
