@@ -142,7 +142,6 @@ ul{
     margin-left: 30px;
     font-family: var(--font-padrao);
     line-height: 30px;
-    columns: 2;
 }
 
 li a{
