@@ -4,7 +4,7 @@
 
 @font-face{
     font-family: 'square';
-    src: url(../font/FORCED\ SQUARE.ttf);
+    src: url(../font/FORCED\ SQUARE.ttf) format(true type);
     font-weight: normal;
     font-style: normal;
 }
