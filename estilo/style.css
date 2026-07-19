@@ -178,7 +178,7 @@ aside p{
     line-height: 30px;
     text-align: justify;
     font-family: var(--font-padrao);
-    font-size: clamp(20px, 2vw, 27px);
+    font-size: clamp(14px, 2vw, 16px);
 }
 
 aside  p a{
