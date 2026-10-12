@@ -1,0 +1,127 @@
+Mundo da Tecnologia da Informação
+
+Invista seu conhecimento pro seu futuro
+
+[MENU]
+
+Home
+Domínios
+Áreas de desenvolvimento
+
+Como a Internet Surgiu
+
+A internet é uma das maiores invenções da humanidade, permitindo a comunicação e o compartilhamento de informações em escala global. Sua criação foi resultado de décadas de pesquisas e avanços tecnológicos.
+
+📖 1. O Que É a Internet?
+
+A internet é uma rede mundial de computadores conectados entre si. Ela permite a troca de dados, acesso a informações, comunicação instantânea e diversos serviços digitais.
+
+[FOTO]
+
+🛰️ 2. O Contexto Histórico
+
+Durante a década de 1960, o mundo vivia a Guerra Fria, período marcado pela disputa entre os Estados Unidos e a União Soviética. Nesse cenário, surgiu a necessidade de criar sistemas de comunicação mais seguros e resistentes a possíveis ataques.
+
+[FOTO]
+
+💻 3. O Surgimento da ARPANET
+
+A primeira versão da internet surgiu em 1969 com a criação da ARPANET, um projeto financiado pelo Departamento de Defesa dos Estados Unidos.
+
+Principais características:
+
+Conectava universidades e centros de pesquisa.
+Permitia o compartilhamento de informações entre computadores.
+Funcionava mesmo que parte da rede fosse interrompida.
+
+🔗 4. O Desenvolvimento dos Protocolos de Comunicação
+
+Para que computadores diferentes pudessem se comunicar, foi necessário criar regras padronizadas.
+
+Surgimento do TCP/IP
+
+Em 1974, os pesquisadores:
+
+Vinton Cerf
+Robert Kahn
+
+desenvolveram o protocolo TCP/IP, que se tornou a base da internet moderna.
+
+Funções do TCP/IP:
+
+Organizar o envio de dados.
+Garantir que as informações cheguem ao destino correto.
+Permitir a comunicação entre diferentes redes.
+
+🌎 5. A Expansão da Rede
+
+Na década de 1980, diversas instituições acadêmicas e governamentais passaram a utilizar a tecnologia da ARPANET.
+
+Com isso:
+
+Novas redes foram criadas.
+O número de computadores conectados aumentou.
+A internet começou a se expandir para além do meio militar.
+
+🌐 6. O Nascimento da World Wide Web (WWW)
+
+Em 1989, o cientista britânico Tim Berners-Lee desenvolveu a World Wide Web (WWW).
+
+Principais contribuições:
+
+Criação do HTML.
+Desenvolvimento do conceito de páginas web.
+Introdução dos hyperlinks (links entre páginas).
+
+Isso tornou a internet muito mais fácil de usar para o público.
+
+🚀 7. A Popularização da Internet
+
+Durante os anos 1990, a internet passou a ser utilizada comercialmente.
+
+Fatores que impulsionaram sua popularização:
+
+Surgimento dos navegadores web.
+Aumento do número de computadores pessoais.
+Expansão dos provedores de acesso.
+Crescimento dos sites e serviços online.
+
+[foto]
+
+📱 8. A Internet nos Dias Atuais
+
+Hoje, bilhões de dispositivos estão conectados à internet.
+
+Exemplos de uso:
+
+Redes sociais.
+Streaming de vídeos e músicas.
+Jogos online.
+Compras pela internet.
+Educação a distância.
+Computação em nuvem.
+
+A internet tornou-se uma ferramenta essencial para a comunicação, o trabalho, o entretenimento e o acesso ao conhecimento.
+
+[video]
+
+[EXTRA] Quer aprender mais?
+
+esses artigos exibem um pouco da teoria sobre o surgimento da tecnologia que opera no desenvolvimento web, porém ainda temos muito mais conteúdos para você no curo HTML e CSS do cursoemvideo com Gustavo Guanabara, você aprenderá:
+
+1.Estrutura básica de um arquivo HTML.
+2.Parágrafos e quebras
+3.formatos de Imagens e inserir
+4.Hierarquia de Títulos
+5.Semântica no HTML5
+6.Negrito/Itálico
+7.Listas ol e ul
+8.links internos/externos
+9.imagens adaptadas
+10.Inserir vídeos
+11.CSS inline/internos e externos
+
+E muito mais com o decorrer do curso, se esse artigo tiver dado uma curiosidade em você, Acesse o canal do [cursoemvídeo] para mais informações
+
+Henrique Castro Lopes
+
