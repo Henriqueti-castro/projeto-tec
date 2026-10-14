@@ -182,6 +182,12 @@ aside p{
     font-size: clamp(14px, 2vw, 16px);
 }
 
+aside p > span {
+    color: var(--cor5);
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
 aside  p a{
     text-decoration: none;
     color: var(--cor2);
